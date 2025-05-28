@@ -1,7 +1,7 @@
 # comp-viz
 👁️ Projects in Computer Vision including object segmentation, facial recognition &amp; biometric authentication.  
 
-These three discussions explore how each of three algorithms from the <b>OpenCV</b> open-source library can detect and recognize objects & faces in Computer Vision mathematically.  
+These three discussions explore how each of three algorithms from the <b>OpenCV</b> open-source library can detect and recognize objects & faces.  
 
 Dependencies:
 - opencv-python
