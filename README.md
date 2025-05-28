@@ -9,6 +9,7 @@ Dependencies:
 - scikit-image  
 
 ---  
+---  
 
 ## 🥸 Facial Recognition  
 
